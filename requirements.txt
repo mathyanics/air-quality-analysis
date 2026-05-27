@@ -5,3 +5,4 @@ seaborn==0.13.2
 plotly==6.1.1
 numpy==2.2.6
 statsmodels==0.14.4
+scipy<1.15
